@@ -8,6 +8,8 @@ public class Principal {
 
     public static void main(String[] args) {
 
+        System.out.println("Alteracao de codigo teste GIT!");
+
         System.out.println("Inicio da aplicação");
         System.out.println("Informe o mês do seu nascimento:");
         Scanner sc = new Scanner(System.in);
